@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: clientA
+server:
+  port: 8088
+env:
+  dev22  
+girl:
+  name: lili
+  age: 20
